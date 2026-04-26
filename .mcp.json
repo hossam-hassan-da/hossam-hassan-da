@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "hossam-hassan-da Docs": {
+      "type": "sse",
+      "url": "https://gitmcp.io/hossam-hassan-da/hossam-hassan-da"
+    }
+  }
+}
