@@ -85,6 +85,6 @@ Integrate real-world hiring urgency metrics to prepare students for actual marke
 └──  Assets/
     └── dashboard_preview.png     ← High-quality screenshot
 Live Links
-🌐 [Interactive Power BI Dashboard] (Link to be added after NovyPro/Service upload)
+🌐 [Interactive Power BI Dashboard](https://app.powerbi.com/links/l0JBrwZxmB?ctid=5bf578da-db20-4df2-b8d2-c2357607e377&pbi_source=linkShare)
 💻 [GitHub Repository] (Link to be added after repo creation)
 📄 [Full Portfolio] (Link to be added after Notion/Website launch)
