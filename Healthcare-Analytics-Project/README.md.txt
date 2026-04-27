@@ -78,6 +78,6 @@ To analyze a dataset of **55,000 healthcare cases** and **$1.42 Billion in medic
 ---
 
 ## 🔗 Live Links
-🌐 [Interactive Dashboard] *(Link to be added)*  
-💻 [Source Code] *(Link to be added)*  
-📄 [Full Portfolio] *(Link to be added)*
+🌐 [Interactive Dashboard] *(https://app.powerbi.com/links/FwD5AWfFyo?ctid=5bf578da-db20-4df2-b8d2-c2357607e377&pbi_source=linkShare)*  
+💻 [Source Code] *(https://github.com/hossam-hassan-da/hossam-hassan-da)*  
+📄 [Full Portfolio] *(https://hossam-hassan-da.github.io/hossam-hassan-da/)*
