@@ -85,9 +85,9 @@ To analyze retail transaction data and extract actionable insights regarding:
 ---
 
 ## 🔗 Live Links
-🌐 [Interactive Dashboard] *(Link to be added after NovyPro upload)*  
-💻 [Source Code] *(Link to be added after GitHub upload)*  
-📄 [Full Portfolio] *(Link to be added after portfolio launch)*
+🌐 [Interactive Dashboard] *(https://app.powerbi.com/links/VCtMebx-DD?ctid=5bf578da-db20-4df2-b8d2-c2357607e377&pbi_source=linkShare)*  
+💻 [Source Code] *(https://github.com/hossam-hassan-da/hossam-hassan-da)*  
+📄 [Full Portfolio] *(https://hossam-hassan-da.github.io/hossam-hassan-da/)*
 
 ---
 > *This project demonstrates end-to-end retail analytics capability: from data modeling to interactive visualization and actionable business insights.*
